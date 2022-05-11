@@ -1,5 +1,5 @@
-# Aperture_Industry_Project
-Industry project with Aperture Finance: Portfolio Analytics
+# Aperture Finance Industry Project
+##Industry project with Aperture Finance: Portfolio Analytics
 
 [Aperture Finance](https://aperture.finance/)
 [Aperture Dashboard](https://app.aperture.finance/)
