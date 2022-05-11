@@ -2,7 +2,9 @@
 ## Industry project with Aperture Finance: Portfolio Analytics
 
 [Aperture Finance](https://aperture.finance/)
+
 [Aperture Dashboard](https://app.aperture.finance/)
+
 [Aperture Docs](https://docs.aperture.finance/docs/)
 
 We start with querying data from the Terra blockchain upon which Aperture Finance operates. Data can be queried via REST API and we primarily rely on python as means of query and analysis. 
