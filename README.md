@@ -1,7 +1,7 @@
 # Aperture Finance Industry Project
 ## Industry project with Aperture Finance: Portfolio Analytics
 
-This is an industry project with [Deepak Singh](), done as part of UC Berkeley Master of Financial Engineering (MFE) program for field experience.
+This is an industry project with [Deepak Singh](https://github.com/notdsr), done as part of UC Berkeley Master of Financial Engineering (MFE) program for field experience.
 
 The project is with [Aperture Finance](https://aperture.finance/), a cross-chain DeFi investment strategy marketplace. One of its major investment strategies implements the delta-neutral strategy which allows the investor to yield-farm on synthetic tokens pegged to stocks with less exposure to value fluctuations. More on it can be found here: [Aperture Docs](https://docs.aperture.finance/docs/)
 
