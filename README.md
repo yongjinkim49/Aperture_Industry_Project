@@ -17,4 +17,4 @@ One would have to ```pip install requests``` first.
 | :---:      | :---:  | ------      | ----- |
 | 2022-05-07 | Jin    | Interpret JS code for query into python | decide what data to query |
 | 2022-05-10 | Deepak | Create comprehensive query function for all data | identify column specifications |
-| 2022-05-12 || Jin   |  ** | **  |
+| 2022-05-12 | Jin   |  ** | **  |
