@@ -13,8 +13,8 @@ One would have to ```pip install requests``` first.
 
 ### Project progress:
 
-| Start      | End        | Lead   | Description | To Do |
-| :---:      | :--:       | :---:  | ------      | ----- |
-| 2022-05-05 | 2022-05-07 | Jin    | Interpret JS code for query into python | decide what data to query |
-| 2022-05-07 | 2022-05-10 | Deepak | Create comprehensive query function for all data | identify column specifications |
-| 2022-05-10 | 2022-05-12 | Jin    |  ** | **  |
+| Updated    | Lead   | Description | To Do |
+| :---:      | :---:  | ------      | ----- |
+| 2022-05-07 | Jin    | Interpret JS code for query into python | decide what data to query |
+| 2022-05-10 | Deepak | Create comprehensive query function for all data | identify column specifications |
+| 2022-05-12 || Jin   |  ** | **  |
